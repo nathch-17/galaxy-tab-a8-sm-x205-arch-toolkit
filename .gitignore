@@ -1,0 +1,17 @@
+# Gros binaires téléchargés localement (récupérés via scripts/download-assets.sh)
+rom/
+recovery/
+recovery-ap/
+apk/
+tools/
+
+# Fichiers temporaires
+*.img
+*.img.xz
+*.tar
+*.tar.md5
+*.apk
+*.AppImage
+*.7z
+*.zip
+.DS_Store
